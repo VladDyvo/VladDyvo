@@ -144,7 +144,7 @@ Analisi esplorativa di **250.000 record** relativi al mercato del lavoro, svilup
 
 `SQL` · `Google Sheets` · `Data Analysis` · `Data Visualization` · `Dashboard`
 
-➡️ **[Visualizza il progetto Job Salary Analysis](https://github.com/VladDyvo/Progetto-Sql)**
+➡️ **[Visualizza il progetto Job Salary Analysis](https://github.com/VladDyvo/job-salary-analysis-sql)**
 
 ---
 
