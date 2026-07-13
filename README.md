@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Vladyslav Dyvohryts - Junior Data Analyst Banner" width="100%">
+</p>
 <div align="center">
 
-# Ciao, sono Vladyslav 👋
-
-### Junior Data Analyst | Python · SQL · Excel · Google Sheets
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Junior%20Data%20Analyst-success?style=flat-square)](https://www.linkedin.com/in/vladyslav-dyvohryts/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladyslav%20Dyvohryts-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-dyvohryts/)
