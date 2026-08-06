@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Chi sono
 
-Sono un **Junior Data Analyst** e laureando in **Economia e Management**, attualmente impegnato nel percorso di alta formazione **Data/AI Analyst** presso Develhope.
+Sono un **Junior Data Analyst** con una formazione in **Economia e Management** e ho completato il percorso di alta formazione **Data/AI Analyst** presso Develhope.
 
 Utilizzo principalmente **Python, SQL, Excel e Google Sheets** per trasformare dati grezzi in informazioni chiare e utili alle decisioni aziendali.
 
-Nei miei progetti mi occupo di:
+Nei miei progetti ho lavorato su:
 
 - Data Cleaning e preparazione dei dati;
 - Exploratory Data Analysis;
@@ -171,7 +171,7 @@ Percorso di alta formazione attualmente in corso, con approfondimenti su:
 
 ### Economia e Management — Università degli Studi di Salerno
 
-Laurea triennale in corso, curriculum in **Gestione delle Imprese**, con focus su:
+Percorso universitario in **Economia e Management**, curriculum in **Gestione delle Imprese**, con focus su:
 
 - analisi economico-finanziaria;
 - organizzazione aziendale;
