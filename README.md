@@ -202,7 +202,7 @@ Attualmente sto lavorando su:
 
 ## 🎯 Obiettivo professionale
 
-Sto cercando un’opportunità come **Junior Data Analyst** o **Junior Business Intelligence Analyst** nella quale poter:
+Sto cercando un’opportunità come **Data Analyst** o **Business Intelligence Analyst** nella quale poter:
 
 - analizzare dati reali;
 - creare report e dashboard;
