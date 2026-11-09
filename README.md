@@ -14,24 +14,29 @@
 
 ## 👨‍💻 Chi sono
 
-Sono un **Junior Data Analyst** con una formazione in **Economia e Management** e ho completato il percorso di alta formazione **Data/AI Analyst** presso Develhope.
 
-Utilizzo principalmente **Python, SQL, Excel e Google Sheets** per trasformare dati grezzi in informazioni chiare e utili alle decisioni aziendali.
+Sono un **Data Analyst** con esperienza in analisi dei dati, reportistica, KPI e gestione CRM, maturata in ruoli di **Business Analyst** e **Data Analyst**.
+
+Attualmente mi occupo di analisi di mercato e gestione dati tramite **CRM Lenus**. Ho inoltre sviluppato competenze pratiche in **Python, SQL, Excel, Power BI e Data Visualization** attraverso formazione specialistica e progetti di analisi dati.
 
 Nei miei progetti ho lavorato su:
 
 - Data Cleaning e preparazione dei dati;
-- Exploratory Data Analysis;
+- Exploratory Data Analysis (EDA);
 - definizione e calcolo di KPI;
 - analisi delle vendite e del comportamento dei clienti;
-- segmentazione della clientela;
+- segmentazione RFM;
 - Cohort Analysis e analisi della retention;
 - Data Visualization e comunicazione degli insight.
+
+Sto completando la laurea in **Economia e Management** e ho concluso il percorso di alta formazione **Data/AI Analyst presso Develhope**.
 
 Il mio percorso combina competenze analitiche e conoscenze economico-manageriali, permettendomi di interpretare i dati anche dal punto di vista del business.
 
 📍 Battipaglia, Salerno, Italia  
-💼 Disponibile per opportunità come **Junior Data Analyst** e **Junior Business Intelligence Analyst**
+💼 Aperto a opportunità in ambito **Data Analysis** e **Business Intelligence**
+
+---
 
 ---
 
